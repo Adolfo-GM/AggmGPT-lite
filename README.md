@@ -1,5 +1,7 @@
 <img src="logo.png" height="200">
+
 # AggmGPT-lite
+
 AggmGPT-lite is a lightweight, rule-based conversational AI. Using pattern-matching, it provides reflective, context-aware responses to user inputs. 
 
 <img src="lite-example.png">
